@@ -1,0 +1,33 @@
+{
+  "name": "ftm-vexere-balance-main",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xftm/ftm-check-balance.git"
+  },
+  "keywords": [
+    "ftm-vexere-balance-main",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "quan2004-sudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xftm/ftm-vexere-balance-main/issues"
+  },
+  "homepage": "https://github.com/0xftm/ftm-vexere-balance-main#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "ftm-vexere-convert-main": "1.0.0"
+
+  }
+}
